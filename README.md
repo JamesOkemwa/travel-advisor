@@ -24,8 +24,16 @@ Hotels
 ![hotel](https://user-images.githubusercontent.com/49208270/172132612-8afa93f2-1397-49dc-8298-95d756999eda.png)
 
 
+## Features
+
+- Geolocation - Allow geolocation inorder to fetch hotels, attractions and restaurants around you.
+- Search for locations/towns on the map.
+- Display weather location. 
+
+
 ## Tech Stack
 
 **Client:** React, Material UI
 
 **APIs:** Google Maps API, Google Places API, Rapid API, Travel Advisor API, Open Weather Map API.
+
