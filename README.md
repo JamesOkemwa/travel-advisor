@@ -28,7 +28,8 @@ Hotels
 
 - Geolocation - Allow geolocation inorder to fetch hotels, attractions and restaurants around you.
 - Search for locations/towns on the map.
-- Display weather location. 
+- Display weather data for various locations of the map using icons. 
+- Display various attractions, hotels and restaurantson the map.
 
 
 ## Tech Stack
